@@ -176,8 +176,8 @@ The rest of the settings in this set are described in the program, but are repea
 for convenience:
 
 	# SET THESE LINES TO CURRENT LATITUDE AND LONGITUDE TO CENTER GRAPH
-	currentlatitude = 40.75306		# Home is 40.75306
-	currentlongitude = -96.74417	# Home is -96.74417
+	currentlatitude = xxxxxxx		# Home is xxxxxxx
+	currentlongitude = xxxxxxx	# Home is xxxxxxx
 
 	# If the following is set to True it will plot from z = 0
 	# If set to False it will plot from z = [minimum altitude] - 1000 ft
